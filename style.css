@@ -10,3 +10,12 @@ h2{
     
     text-align: center;
 }
+
+.highlight {
+	background-color: yellow;
+}
+
+.error {
+	background-color: lightcoral;
+	border-color: red;
+}
