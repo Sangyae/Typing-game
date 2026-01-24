@@ -1,4 +1,4 @@
-/* h1 {
+h1 {
     text-align: center;
 }
 
@@ -9,13 +9,18 @@ h2{
 .inputs{
     
     text-align: center;
-} */
+}
 
 .highlight {
 	background-color: yellow;
+    text-align: center;
 }
 
 .error {
 	background-color: lightcoral;
 	border-color: red;
+}
+
+#quote {
+    text-align: center;
 }
